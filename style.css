@@ -1,0 +1,58 @@
+.gallery img{
+        width: 100%;
+ }
+
+
+li a {
+    display: inline;
+    padding: 8px;
+    background-color: greenyellow;
+    
+  } 
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100% ;
+    height: 40px;
+  }
+  
+  li {
+    float: left;
+  }
+
+
+
+p {
+  text-align: left;
+  color: blueviolet;
+  
+}
+h1{
+    text-align: left;
+    color: crimson;
+}
+h4{
+    text-align: left;
+    color: crimson;
+}
+
+h2{
+    text-align: left;
+    color: crimson;
+    
+}
+div id{
+    text-decoration-color: black;
+    background: lightblue;
+    border-color: blueviolet;
+    
+}
+    
+    
+
+    
